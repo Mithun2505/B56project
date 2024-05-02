@@ -1,0 +1,17 @@
+pandas
+numpy
+os
+glob
+sys
+joblib
+SimpleTTK
+PIL
+sklearn
+pickle
+os
+shutil
+tensorflow
+keras
+keras_preprocessing
+cv2
+tkinter
